@@ -1,0 +1,9 @@
+MILESTONES:
+Hello world with c++ native
+
+Access sensors, just give readout/debug from it
+
+Design decisions (what sensors can we access?)
+
+Connection to computer?
+
